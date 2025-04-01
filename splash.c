@@ -38,3 +38,5 @@ int main() {
 
     return 0;
 }
+//     gcc splash.c -o splash
+//     ,/splash
