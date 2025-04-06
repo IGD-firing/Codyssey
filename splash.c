@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main() {
+    //반드시 인코딩 EUC-KR로 전환할것.
     //변수설정
     int Yearvalue, Monthvalue, Dayvalue;
     char chnyear[] = "yyyy";
